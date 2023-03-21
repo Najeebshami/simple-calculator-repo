@@ -1,0 +1,13 @@
+body{
+   font-family: sans-serif;
+  }
+  .container{
+  width: 400px;
+    background-color:rgba(204, 148, 204, 0.301);
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+  }
